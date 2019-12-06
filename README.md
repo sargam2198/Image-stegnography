@@ -1,4 +1,3 @@
 # Image-stegnography
-Hides image .
-# Hiiiii 
-# byee
+Hides image line-break
+
