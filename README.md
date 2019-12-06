@@ -1,7 +1,2 @@
 # Image-stegnography
-Hides image line-break
-
-sargam
-
-sargammm
-
+HIDES IMAGE
